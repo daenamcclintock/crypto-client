@@ -6,6 +6,12 @@ const messages = {
 	signOutSuccess: 'Come back soon!',
 	changePasswordSuccess: 'Password changed successfully!',
 	changePasswordFailure:'Failed to change passwords. Check your old password and try again.',
+	indexCryptosSuccess: "Cryptos retrieved successfully!",
+	indexCryptosFailure: "Failed to get cryptos. Please try again.",
+	showCryptoSuccess: "Crypto retrieved successfully!",
+	showCryptoFailure: "Failed to get crypto. Please try again.",
+	createCryptoSuccess: "Crypto created successfully!",
+	createCryptoFailure: "Something went wrong. Please try again."
 }
 
 module.exports = messages
